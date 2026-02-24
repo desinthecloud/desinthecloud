@@ -35,7 +35,7 @@ Linux | Vagrant | VMware Fusion | Nginx | Tomcat | MariaDB | RabbitMQ | Memcache
 
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner
-- AWS Certified Developer Associate (November 2025)
+- AWS Certified Developer Associate
 - AWS Machine Learning Engineer Associate (in progress)
 
 ---
