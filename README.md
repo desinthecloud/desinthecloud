@@ -65,7 +65,7 @@ Website: www.desinthecloud.com
 YouTube: Des in the Cloud
 Podcast: Commit and Slay with Aimm
 
-I talk about breaking into tech after 40, building in public, and what it actually looks like to transition into engineering as a Black woman. Come find me.
+I talk about breaking into tech mid-career, building in public, and what it actually looks like to transition into engineering as a Black woman. Come find me.
 
 <!--
 **desinthecloud/desinthecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
