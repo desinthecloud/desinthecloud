@@ -1,4 +1,4 @@
-# Hi, I'm Des 👋
+# Hi, I'm Des 👋🏾
 
 DevOps and AI Cloud Engineer based in Jacksonville, FL. I come from an IT consulting and accounting background, and I made a deliberate pivot into engineering. Now I build, automate, and deploy real cloud infrastructure.
 
