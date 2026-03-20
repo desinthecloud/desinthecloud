@@ -42,30 +42,26 @@ Linux | Vagrant | VMware Fusion | Nginx | Tomcat | MariaDB | RabbitMQ | Memcache
 
 ## Featured Projects
 
+**Support Ticket Triage System**
+End-to-end ML classification pipeline built on AWS. Trained and deployed a scikit-learn model using SageMaker, exposed it via Lambda and API Gateway, and provisioned the full infrastructure with Terraform. Covers the complete ML lifecycle from training to production inference.
+ 
+**MLOps CI/CD Pipeline**
+Automated retraining pipeline triggered by S3 data events through EventBridge. Uses GitHub Actions for CI/CD, Lambda for orchestration, and SNS for alerting. No manual intervention required from data upload to model deployment.
+ 
+**ML Model Monitoring and Drift Detection** 
+Production monitoring pipeline that tracks model performance, detects data and concept drift, and triggers automated retraining when thresholds are breached. Built on AWS with SageMaker Model Monitor and full infrastructure as code.
+ 
 **DevOps Home Lab on Apple Silicon**
-ARM-compatible home lab built with Vagrant, VMware Fusion, and Docker on an M4 MacBook Air. Full five-tier stack: Nginx, Tomcat, MariaDB, Memcached, and RabbitMQ.
-
-**AI Content Generator with Amazon Bedrock**
-Serverless app that generates content using Claude via Amazon Bedrock. Built with AWS Lambda, API Gateway, and Streamlit.
-
-**Autoscaling Microservice**
-Containerized microservice deployed across a hybrid homelab and AWS environment with CI/CD, ALB routing, and CloudWatch auto-scaling.
-
-**AI Feedback Classifier**
-Customer feedback sentiment classifier using AWS Comprehend and SageMaker.
-
+ARM-compatible home lab built with Vagrant, VMware Fusion, and Docker on an M4 MacBook Air. Full five-tier stack running Nginx, Tomcat, MariaDB, Memcached, and RabbitMQ. Built to simulate production infrastructure locally.
+ 
 **Beauty Tech App for Women of Color**
-A mobile app designed specifically for women of color to discover products, routines, and recommendations that actually work for their skin and hair. Built to solve a real gap in the beauty industry.
+A mobile app that helps women of color find products, routines, and recommendations that actually work for their skin and hair. Built to solve a real gap in the beauty industry.
 
 ---
 
 ## Connect With Me
+Email: desinthecloud@gmail.com
 
-Website: www.desinthecloud.com
-YouTube: Des in the Cloud
-Podcast: Commit and Slay with Aimm
-
-I talk about breaking into tech mid-career, building in public, and what it actually looks like to transition into engineering as a Black woman. Come find me.
 
 <!--
 **desinthecloud/desinthecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
