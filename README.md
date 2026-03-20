@@ -8,10 +8,10 @@ I document everything. The wins, the errors, the 2 am debugging sessions. If you
 
 ## What I'm Working On
 
-- Lifting and shifting a multi-tier application to AWS using Terraform (DevCloudNinjas Project 3)
+- Building ML and MLOps based projects
 - Studying for the AWS Machine Learning Engineer Associate certification
 - Building a beauty tech app for women of color
-- Creating content on my YouTube channel, Des in the Cloud
+
 
 ---
 
